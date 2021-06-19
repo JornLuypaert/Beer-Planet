@@ -57,7 +57,7 @@ header {
 }
 
 .bgImage {
-    background: url(../img/banner.jpg) no-repeat center center;
+    background: url(img/banner.jpg) no-repeat center center;
     background-size: cover;
 }
 
